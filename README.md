@@ -1,6 +1,6 @@
 # Real-Time Sign Language Alphabet Translator v1.0.0
 
-![Sign Language Detection Screenshot](path/to/your/preview.png)
+![Sign Language Detection Screenshot](preview.png)
 
 ### Table of Contents
 
