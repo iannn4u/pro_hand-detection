@@ -79,9 +79,9 @@ The program runs in three sequential steps. Make sure you have your image datase
 
 ### Roadmap
 
--   [ ] Implement a more user-friendly GUI instead of the basic OpenCV window.
--   [ ] Expand the model to recognize full words or common phrases, not just individual letters.
--   [ ] Deploy the project as a web application to make it accessible without any installation.
+-   Implement a more user-friendly GUI instead of the basic OpenCV window.
+-   Expand the model to recognize full words or common phrases, not just individual letters.
+-   Deploy the project as a web application to make it accessible without any installation.
 
 ---
 
